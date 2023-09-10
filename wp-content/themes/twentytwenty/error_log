@@ -1,0 +1,8 @@
+[27-Apr-2022 09:12:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/acout/themorestudio.com/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/acout/themorestudio.com/wp-content/themes/twentytwenty/index.php on line 17
+[29-Jun-2022 07:11:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/acout/themorestudio.com/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/acout/themorestudio.com/wp-content/themes/twentytwenty/index.php on line 17

@@ -1,0 +1,37 @@
+				@font-face {
+					font-family: 'galanogrotesquebold';
+					src: url('/wp-content/uploads/useanyfont/371GalanoGrotesqueBold.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/371GalanoGrotesqueBold.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.galanogrotesquebold{font-family: 'galanogrotesquebold' !important;}
+
+						@font-face {
+					font-family: 'galanogrotesqueregul';
+					src: url('/wp-content/uploads/useanyfont/7899GalanoGrotesqueRegul.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/7899GalanoGrotesqueRegul.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.galanogrotesqueregul{font-family: 'galanogrotesqueregul' !important;}
+
+						@font-face {
+					font-family: 'galanogrotesquesemib';
+					src: url('/wp-content/uploads/useanyfont/7694GalanoGrotesqueSemiB.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/7694GalanoGrotesqueSemiB.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.galanogrotesquesemib{font-family: 'galanogrotesquesemib' !important;}
+
+						@font-face {
+					font-family: 'galanogrotesquemed';
+					src: url('/wp-content/uploads/useanyfont/2386GalanoGrotesquemed.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/2386GalanoGrotesquemed.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.galanogrotesquemed{font-family: 'galanogrotesquemed' !important;}
+
+		
